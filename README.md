@@ -24,7 +24,7 @@ THEN I find a concise, descriptive title"
 
 This is an image for the Design of the Mockup:
 
-![design-mockup](./Develop/assets/images/mockup-design.png)
+![design-mockup](./docs/assets/images/mockup-design.png)
 
 The changes I have made to the webpage:
 
