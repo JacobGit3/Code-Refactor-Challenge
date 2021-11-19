@@ -33,3 +33,6 @@ The changes I have made to the webpage:
 - Added comments to HTML and CSS 
 - Added alt tags to all images
 - Fixed the missing id tag for items in the nav section
+
+Link to refactored webage:
+https://jacobgit3.github.io/Code-Refactor-Challenge/
